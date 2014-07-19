@@ -1,0 +1,23 @@
+{
+  "matchId": 1,
+  "playerOne": {
+    "name": "Hales",
+    "team": "Mengdill"
+  },
+  "playerTwo": {
+    "name": "Bjorn",
+    "team": "Evergreen"
+  },
+  "currentScore": 1,
+  "holes": [
+    {"hole":1,"winner":null},{"hole":2,"winner":null}
+  ],
+  "updates": [
+    {
+      "hole": 1,
+      "winner": 1,
+      "submittedBy": "Bjorn",
+      "time": "07/18/2014 21:18"
+    }
+  ]
+}
