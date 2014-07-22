@@ -18,6 +18,8 @@
   "homepage": "https://github.com/pfil/match-play",
   "dependencies": {
     "express": "^4.6.1",
+    "hjs": "0.0.6",
+    "less-middleware": "^1.0.3",
     "logfmt": "^1.1.2",
     "orchestrate": "^0.2.0"
   }
